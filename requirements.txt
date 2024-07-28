@@ -13,3 +13,4 @@ leidenalg
 openTSNE
 nbdev
 pre-commit
+oasis
